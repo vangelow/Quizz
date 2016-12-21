@@ -1,0 +1,11 @@
+c:\users\victor\documents\visual studio 2015\Projects\UniBitForms\Milioneri\Milioneri\bin\Debug\Milioneri.exe.config
+c:\users\victor\documents\visual studio 2015\Projects\UniBitForms\Milioneri\Milioneri\bin\Debug\Milioneri.exe
+c:\users\victor\documents\visual studio 2015\Projects\UniBitForms\Milioneri\Milioneri\bin\Debug\Milioneri.pdb
+c:\users\victor\documents\visual studio 2015\Projects\UniBitForms\Milioneri\Milioneri\obj\Debug\Milioneri.csprojResolveAssemblyReference.cache
+c:\users\victor\documents\visual studio 2015\Projects\UniBitForms\Milioneri\Milioneri\obj\Debug\Milioneri.Properties.Resources.resources
+c:\users\victor\documents\visual studio 2015\Projects\UniBitForms\Milioneri\Milioneri\obj\Debug\Milioneri.csproj.GenerateResource.Cache
+c:\users\victor\documents\visual studio 2015\Projects\UniBitForms\Milioneri\Milioneri\obj\Debug\Milioneri.exe
+c:\users\victor\documents\visual studio 2015\Projects\UniBitForms\Milioneri\Milioneri\obj\Debug\Milioneri.pdb
+C:\Users\Victor\documents\visual studio 2015\Projects\UniBitForms\Milioneri\Milioneri\obj\Debug\Milioneri.milionaire.resources
+C:\Users\Victor\documents\visual studio 2015\Projects\UniBitForms\Milioneri\Milioneri\obj\Debug\Milioneri.startForm.resources
+C:\Users\Victor\documents\visual studio 2015\Projects\UniBitForms\Milioneri\Milioneri\obj\Debug\Milioneri.endGame.resources

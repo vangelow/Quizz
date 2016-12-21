@@ -1,0 +1,74 @@
+ // public void fillQuestions()
+       // {
+       //     levelLabel.Text = "Level" + level;
+       //     if (level == 1)
+       //     {
+       //
+       //         string[] question1 = new string[] { "Колко е 0011 в десетична бройна система ?", "Колко е 1010 в десетична бройна система ?", "Колко е 1001 в десетична бройна система ?" };
+       //         Random rd = new Random();
+       //         int randomIndex = rd.Next(0, question1.Length);
+       //         string randomQuestion = question1[randomIndex];
+       //         tbQuestion.Text = randomQuestion;
+       //         if (randomIndex == 0)
+       //         {
+       //             fillAnswers(1, "3", new string[] { "4", "3", "5", "2" });
+       //         }
+       //         else if (randomIndex == 1)
+       //         {
+       //             fillAnswers(2, "10", new string[] { "10", "6", "8", "16" });
+       //
+       //         }
+       //         else if (randomIndex == 2)
+       //         {
+       //             fillAnswers(3, "9", new string[] { "12", "9", "8", "6" });
+       //
+       //         }
+       //        
+       //
+       //     }
+       //     else if (level == 2)
+       //     {
+       //         string[] question1 = new string[] { "123124", "124125", "4215123" };
+       //         Random rd = new Random();
+       //         int randomIndex = rd.Next(0, question1.Length);
+       //         string randomQuestion = question1[randomIndex];
+       //         tbQuestion.Text=randomQuestion;
+       //         if (randomIndex == 0)
+       //         {
+       //             fillAnswers(1, "3", new string[] { "4", "3", "5", "2" });
+       //         }
+       //         else if (randomIndex == 1)
+       //         {
+       //             fillAnswers(2, "10", new string[] { "10", "6", "8", "16" });
+       //
+       //         }
+       //         else if (randomIndex == 2)
+       //         {
+       //             fillAnswers(3, "9", new string[] { "12", "9", "8", "6" });
+       //
+       //         }
+       //     }
+       //     
+       // }
+
+
+
+
+
+
+
+
+  //    if (randomIndexOfQuestion == 0)
+                //    {
+                //        fillAnswers(1, "3", new string[] { "4", "3", "5", "2" });
+                //    }
+                //    else if (randomIndexOfQuestion == 1)
+                //    {
+                //        fillAnswers(2, "10", new string[] { "10", "6", "8", "16" });
+                //
+                //    }
+                //    else if (randomIndexOfQuestion == 2)
+                //    {
+                //        fillAnswers(3, "9", new string[] { "12", "9", "8", "6" });
+                //
+                //    }
